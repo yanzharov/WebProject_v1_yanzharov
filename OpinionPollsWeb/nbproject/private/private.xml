@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/command/impl/GetPolls.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/dao/ConnectionPool.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/controller/Controller.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/command/Command.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/service/FindPollService.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/service/impl/FindPolls.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/service/AuthorizationService.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/web/jsp/registration.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/web/css/style.css</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/dao/impl/PollsDAOProvider.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/service/impl/Authorization.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/dao/PollsDAO.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/dao/DAOFactory.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/command/impl/SignIn.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/web/jsp/authorization.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/command/impl/AddNewUser.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/bean/Information.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/web/index.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/web/jsp/polls.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/bean/Poll.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/service/exception/ServiceException.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/service/EditUserService.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/controller/CommandProvider.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/service/factory/ServiceFactory.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/dao/exception/DAOException.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/service/impl/EditUser.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/src/java/by/tr/op/command/impl/SignOut.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/OpinionPollsWeb/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
