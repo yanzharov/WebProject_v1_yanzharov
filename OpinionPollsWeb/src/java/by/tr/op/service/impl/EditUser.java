@@ -10,6 +10,8 @@ import by.tr.op.service.exception.ServiceException;
 public class EditUser implements EditUserService{
 
     @Override
+	// Information - излишне использовать для передачи сообщений об ошиках
+	// для этого судествуют Exception-ы, коорые ты даже сам можетшь создавать
     public Information addNewUser(String name, String login, String password, String role) throws ServiceException {
         Information information=new Information();
         
