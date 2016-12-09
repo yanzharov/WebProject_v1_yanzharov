@@ -27,10 +27,13 @@ public class GetPolls implements Command{
             information=findPollService.getPolls();
         }
         catch(ServiceException e){
-            information.setErrorMessage("Ошибка получения опросов");
+            information.setErrorMessage("Ошибка получения опросов");// почему на русском?
+		// и зачем ради ошибки использовать объект information
+		// тебе requesta мало?
         }
         
         request.setAttribute("information", information);
+	    
         
         RequestDispatcher requestDispatcher = request.getRequestDispatcher("jsp/polls.jsp");
 	requestDispatcher.forward(request, response);

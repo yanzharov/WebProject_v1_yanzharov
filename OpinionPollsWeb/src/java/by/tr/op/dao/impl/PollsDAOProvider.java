@@ -21,6 +21,7 @@ public class PollsDAOProvider implements PollsDAO{
     
     
     @Override
+    // resultset и statement Пушкин будет закрывать?
     public int signIn(String login, String password) throws DAOException {
         ConnectionPoolFactory factory=ConnectionPoolFactory.getInstance();
         ConnectionPool conPool=factory.getConnectionPool();
