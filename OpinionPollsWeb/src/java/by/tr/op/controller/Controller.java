@@ -12,10 +12,11 @@ public class Controller extends HttpServlet {
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         String commandName;
-        final CommandProvider provider = new CommandProvider();
+        final CommandProvider provider = new CommandProvider();// это что такое?
+	    // зачем ты при каждом вызове метода создаешь новый CommandProvider
         
         response.setContentType("text/html;charset=UTF-8");
-        commandName=request.getParameter("commandName");
+        commandName=request.getParameter("commandName");// именуйте константные строки, ПОЖАЛУЙСТА
 	Command command = provider.getCommand(commandName);
 
 	command.execute(request,response);
